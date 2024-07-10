@@ -7,4 +7,4 @@
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kdh4718&theme=flat&column=7)](https://github.com/dkssud8150/)
+
